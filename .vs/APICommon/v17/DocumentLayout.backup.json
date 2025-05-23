@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\USERHP\\source\\repos\\APICommon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|d:\\users\\userhp\\source\\repos\\apicommon\\test\\textfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|solutionrelative:test\\textfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|d:\\users\\userhp\\source\\repos\\apicommon\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|d:\\users\\userhp\\source\\repos\\apicommon\\test\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|solutionrelative:test\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|d:\\users\\userhp\\source\\repos\\apicommon\\test\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|solutionrelative:test\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|d:\\users\\userhp\\source\\repos\\apicommon\\test\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|solutionrelative:test\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|d:\\users\\userhp\\source\\repos\\apicommon\\test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|solutionrelative:test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|d:\\users\\userhp\\source\\repos\\apicommon\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C78777-C143-446D-A5EB-298DBD9E91FE}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextFile.txt",
+              "DocumentMoniker": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\TextFile.txt",
+              "RelativeDocumentMoniker": "Test\\TextFile.txt",
+              "ToolTip": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\TextFile.txt",
+              "RelativeToolTip": "Test\\TextFile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-23T14:01:30.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Test\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:38:48.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Test\\ProductDbContext.cs",
+              "ToolTip": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\ProductDbContext.cs",
+              "RelativeToolTip": "Test\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:38:12.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Test\\Entities\\Product.cs",
+              "ToolTip": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\Entities\\Product.cs",
+              "RelativeToolTip": "Test\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:37:42.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\appsettings.json",
+              "RelativeDocumentMoniker": "Test\\appsettings.json",
+              "ToolTip": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\appsettings.json",
+              "RelativeToolTip": "Test\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T13:30:16.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test",
+              "DocumentMoniker": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T12:05:28.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\Users\\USERHP\\source\\repos\\APICommon\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:03:45.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
